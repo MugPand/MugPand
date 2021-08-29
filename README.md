@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<div align="center">
-    <img src="logo.svg" width="400" height="400" alt="logo">
-</div>
- 
+I'm a class of 2024 student majoring in Computer Science @ Rutgers University - New Brunswick. I love everything tech., ranging from testing out new hardware to developing mobile applications. In particular, I love developing interesting projects in Python and Java with the occasional HTML/CSS/JS needed for front-end development. 💻
+
+Outside of programming, I enjoy photography, video editing, and logic puzzles. 📷
+
+Check out my projects below!⚡
+
 <!--
 **MugPand/MugPand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
