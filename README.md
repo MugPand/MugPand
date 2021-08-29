@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+    <img src="logo.svg" width="400" height="400" alt="logo">
+</div>
+ 
 <!--
 **MugPand/MugPand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
