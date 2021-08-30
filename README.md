@@ -4,7 +4,7 @@ I'm a class of 2024 student majoring in Computer Science @ Rutgers University - 
 
 Outside of programming, I enjoy photography, video editing, and logic puzzles. 📷
 
-Check out my projects below!⚡
+Check out my hackathon winning submissions @ https://devpost.com/mugpand 🥇, and my personal projects below! ⚡
 
 <!--
 **MugPand/MugPand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
