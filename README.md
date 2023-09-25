@@ -1,10 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm a class of 2023 student majoring in Computer Science @ Rutgers University - New Brunswick. I love everything tech; ranging from testing out new hardware to developing mobile applications. In particular, I love developing interesting projects in Python and Java with the occasional HTML/CSS/JS needed for front-end development. 💻
+### I'm a 2023 Computer Science graduate from Rutgers University who is passionate about building the next **big idea**.💡
 
-Outside of programming, I enjoy photography, video editing, and logic puzzles. 📷
+My workdays are generally spent researching low-level technologies or building internal tools that help optimize manual tasks, however, off-work my true interests lie in full-stack development. I'm always keeping up to date with the latest web technologies and I've recently taken up an interest in distributed systems and cloud computing. I enjoy keeping myself busy with side projects so stay tuned for some of my upcoming releases.
 
-Check out my website @ https://mugpand.github.io/ 🌐,hackathon winning submissions @ https://devpost.com/mugpand 🥇, and my personal projects below! ⚡
+Outside of tech, I enjoy working out, solving puzzles, and playing ping pong. 🏓
+
+I'm always looking for new oppurtunities so feel free to reach out!
 
 <!--
 **MugPand/MugPand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
