@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-### I'm a 2023 Computer Science graduate from Rutgers University who is passionate about building the next **big idea**.💡
+### I'm a 2023 Computer Science graduate from Rutgers University passionate about building the next **big idea**.💡
 
 My workdays are generally spent researching low-level technologies or building internal tools that help optimize manual tasks, however, off-work my true interests lie in full-stack development. I'm always keeping up to date with the latest web technologies and I've recently taken up an interest in distributed systems and cloud computing. I enjoy keeping myself busy with side projects so stay tuned for some of my upcoming releases.
 
-Outside of tech I enjoy working out, solving puzzles, and playing ping pong. 🏓
+Outside of tech, I enjoy working out, solving puzzles, and playing ping pong. 🏓
 
-I'm always looking for new oppurtunities so feel free to reach out!
+I'm always looking for new opportunities so feel free to reach out!
 
 <!--
 **MugPand/MugPand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
