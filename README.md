@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm a 2023 Computer Science graduate from Rutgers University passionate about building the next **big idea**.💡
+### I'm a computer science graduate passionate about building the next **big idea**.💡
 
 My workdays are generally spent researching low-level technologies or building internal tools that help optimize manual tasks, however, off-work my true interests lie in full-stack development. I'm always keeping up to date with the latest web technologies and I've recently taken up an interest in distributed systems and cloud computing. I enjoy keeping myself busy with side projects so stay tuned for some of my upcoming releases.
 
